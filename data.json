@@ -1,0 +1,180 @@
+{
+    "user": {
+        "name": "Kapil Meena",
+        "role": "Software Developer",
+        "profile_image_url": "https://drive.google.com/uc?export=download&id=1Xluk53eBRPtmNvXyLCeRFhJ5pOIJr3Ih",
+        "email": "kapil1207310meena@gmail.com",
+        "mob": "+917746047076",
+        "github": "https://github.com/kapil1831",
+        "linkedin": "https://linkedin.com/in/kapil1831",
+        "instagram": "https://www.instagram.com/kapil18311",
+        "resume_link": "https://drive.google.com/uc?export=download&id=1KNgwDv5YD1tJLcUM-Uh8mmuoZzkrjlZX"
+    },
+    "about": {
+        "about_image": "https://drive.google.com/uc?export=download&id=1G1R-4MELJbIQl4uHcC9MPIsAnc0VIkn7",
+        "about_cards": [
+            {
+                "card_name": "Experience",
+                "content": "1700+ Leetcode contest-rating "
+            },
+            {
+                "card_name": "Education",
+                "content": "Bachelors NIT Bhopal"
+            }
+        ],
+        "desc": "Hi, I am Kapil, I have good knowledge of <b>Data Structures</b> and <b>Algorithms</b>. I am familiar with programming languages like <b>C++</b>, <b>Python</b>, <b>JavaScript</b>, <b>Dart</b> etc. I am also experienced in Mobile and Web Application development and I have worked with technologies like <b>Flutter</b>, <b>HTML/CSS</b>, <b>React.js</b>, <b>Redux</b>, <b>Node.js</b>, <b>Express.js</b>, <b>Django</b>, <b>MongoDB</b>, <b>Firebase</b> etc. I am passionate about Software Development and  I am eager to collaborate with dynamic teams and contribute my skills to drive innovation and growth in the IT industry."
+    },
+    "experience": [
+        {
+            "title": "Web Development",
+            "skills": [
+                {
+                    "skill": "HTML/CSS",
+                    "skill_level": "Experienced"
+                },
+                {
+                    "skill": "React/Redux",
+                    "skill_level": "Experienced"
+                },
+                {
+                    "skill": "JavaScript",
+                    "skill_level": "Experienced"
+                },
+                {
+                    "skill": "Node.js",
+                    "skill_level": "Basic"
+                },
+                {
+                    "skill": "Express.js",
+                    "skill_level": "Basic"
+                },
+                {
+                    "skill": "MongoDB",
+                    "skill_level": "Basic"
+                }
+            ]
+        },
+        {
+            "title": "Technologies",
+            "skills": [
+                {
+                    "skill": "Flutter",
+                    "skill_level": "Intermediate"
+                },
+                {
+                    "skill": "Dart",
+                    "skill_level": "Intermediate"
+                },
+                {
+                    "skill": "Linux",
+                    "skill_level": "Experienced"
+                },
+                {
+                    "skill": "Docker",
+                    "skill_level": "Experienced"
+                },
+                {
+                    "skill": "Firebase",
+                    "skill_level": "Basic"
+                },
+                {
+                    "skill": "Git",
+                    "skill_level": "Basic"
+                }
+            ]
+        },
+        {
+            "title": "Other Skills",
+            "skills": [
+                {
+                    "skill": "Data Structures",
+                    "skill_level": "Experienced"
+                },
+                {
+                    "skill": "Algorithms",
+                    "skill_level": "Experienced"
+                },
+                {
+                    "skill": "C++",
+                    "skill_level": "Experienced"
+                },
+                {
+                    "skill": "Python",
+                    "skill_level": "Intermediate"
+                },
+                {
+                    "skill": "Problem Solving",
+                    "skill_level": "Experienced"
+                }
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "LinkedIn Clone",
+            "image": "https://drive.google.com/uc?export=download&id=1ywG7EQraocO8Dm2gD-AWPvMhC6Byv1Cm",
+            "link": "https://linkedin-29e24.web.app/",
+            "github_link": "https://github.com/kapil1831/linkedin-clone",
+            "short_desc": "This Web App built using React.js and Firebase. Redux is used for managing global app state.",
+            "long_desc": "This Web App built using React.js and Firebase. Redux is used for managing global app state. User authentication and login session are maintained by firebase auth service",
+            "contributers": [
+                "Kapil Meena"
+            ],
+            "timeline": [
+                "July 2023",
+                "Aug 2023"
+            ],
+            "techstack": [
+                "React.js",
+                "Redux",
+                "Firebase",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Framer-Motion"
+            ]
+        },
+        {
+            "title": "MUSICO",
+            "image": "https://drive.google.com/uc?export=download&id=1ahNzT9WBecinnBM08voU83RllbUThHQT",
+            "link": "null",
+            "github_link": "https://github.com/kapil1831/MUSICO",
+            "short_desc": "Musico is a Music Player using an Online API, built using Flutter and Dart",
+            "long_desc": "Musico is a Music Player using an Online API, built using Flutter and Dart.",
+            "contributers": [
+                "Kapil Meena"
+            ],
+            "timeline": [
+                "May 2022",
+                "July 2022"
+            ],
+            "techstack": [
+                "Flutter",
+                "Dart",
+                "REST API"
+            ]
+        },
+        {
+            "title": "MLOPS",
+            "image": "https://drive.google.com/uc?export=download&id=1-_N87JeOlcHZWg4M1n5GrvXNBUdYOE-L",
+            "link": "null",
+            "github_link": "https://github.com/kapil1831/MLOps",
+            "short_desc": " Using  MLOps Concepts, a ML Workflow created for automatic HyperParameter tuning to train ML models to appropriate accuracy.",
+            "long_desc": "Here using  MLOps Concepts we create a ML Workflow to for automatic HyperParameter tuning to train ML models to appropriate accuracy.",
+            "contributers": [
+                "Kapil Meena"
+            ],
+            "timeline": [
+                "Apr 2020",
+                "May 2020"
+            ],
+            "techstack": [
+                "Docker",
+                "Git",
+                "Jenkins",
+                "Python",
+                "ML"
+            ]
+        }
+    ]
+}
