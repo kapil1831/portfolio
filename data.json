@@ -8,7 +8,7 @@
         "github": "https://github.com/kapil1831",
         "linkedin": "https://linkedin.com/in/kapil1831",
         "instagram": "https://www.instagram.com/kapil18311",
-        "resume_link": "https://drive.google.com/uc?export=download&id=1iWaixurDd2X9Chc58BSfG_gOGrFvJTWR"
+        "resume_link": "https://drive.google.com/uc?export=download&id=1IS0SaqRjnDcQCemQYi5Gj3mpqFXbRvwS"
     },
     "about": {
         "about_image": "https://drive.google.com/uc?export=download&id=1G1R-4MELJbIQl4uHcC9MPIsAnc0VIkn7",
@@ -113,7 +113,7 @@
         {
             "title": "LinkedIn Clone",
             "image": "https://drive.google.com/uc?export=download&id=1ywG7EQraocO8Dm2gD-AWPvMhC6Byv1Cm",
-            "link": "https://linkedin-29e24.web.app/",
+            "link": "https://linkedin-3441e.web.app/",
             "github_link": "https://github.com/kapil1831/linkedin-clone",
             "short_desc": "This Web App built using React.js and Firebase. Redux is used for managing global app state.",
             "long_desc": "This Web App built using React.js and Firebase. Redux is used for managing global app state. User authentication and login session are maintained by firebase auth service",
