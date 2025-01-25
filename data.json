@@ -2,7 +2,7 @@
     "user": {
         "name": "Kapil Meena",
         "role": "Software Developer",
-        "profile_image_url": "https://drive.google.com/uc?export=download&id=1o0_kE6kAgnDAHc4ZFyz4KCiQyOG1u-sQ",
+        "profile_image_url": "",
         "email": "kapil1207310meena@gmail.com",
         "mob": "+917746047076",
         "github": "https://github.com/kapil1831",
@@ -11,7 +11,7 @@
         "resume_link": "https://drive.google.com/uc?export=download&id=1eJQWBJr3dgLG_ib-88KxpVcFFTslDOF7"
     },
     "about": {
-        "about_image": "https://drive.google.com/uc?export=download&id=1G1R-4MELJbIQl4uHcC9MPIsAnc0VIkn7",
+        "about_image": "",
         "about_cards": [
             {
                 "card_name": "Experience",
@@ -112,7 +112,7 @@
     "projects": [
         {
             "title": "LinkedIn Clone",
-            "image": "https://drive.google.com/uc?export=download&id=1ywG7EQraocO8Dm2gD-AWPvMhC6Byv1Cm",
+            "image": "",
             "link": "https://linkedin-3441e.web.app/",
             "github_link": "https://github.com/kapil1831/linkedin-clone",
             "short_desc": "This Web App built using React.js and Firebase. Redux is used for managing global app state.",
@@ -136,7 +136,7 @@
         },
         {
             "title": "MUSICO",
-            "image": "https://drive.google.com/uc?export=download&id=1ahNzT9WBecinnBM08voU83RllbUThHQT",
+            "image": "",
             "link": "null",
             "github_link": "https://github.com/kapil1831/MUSICO",
             "short_desc": "Musico is a Music Player using an Online API, built using Flutter and Dart",
@@ -156,7 +156,7 @@
         },
         {
             "title": "MLOPS",
-            "image": "https://drive.google.com/uc?export=download&id=1-_N87JeOlcHZWg4M1n5GrvXNBUdYOE-L",
+            "image": "",
             "link": "null",
             "github_link": "https://github.com/kapil1831/MLOps",
             "short_desc": " Using  MLOps Concepts, a ML Workflow created for automatic HyperParameter tuning to train ML models to appropriate accuracy.",
